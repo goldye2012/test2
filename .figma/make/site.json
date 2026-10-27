@@ -1,0 +1,10 @@
+{
+  "description": "Explore age- and gender-based population trends by neighborhood with interactive line charts over time and year-by-year bar chart comparisons.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
